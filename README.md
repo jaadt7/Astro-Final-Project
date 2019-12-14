@@ -2,7 +2,7 @@
 
 # Introduction
 
-This Jupyter notebook shows the dependance of the electric field and the power emitted by an electron orbiting a magentic field. The derivations can be found in Classical Electrodynamics by Jackson.
+This Jupyter notebook shows the transition from cyclotron to synchrotron radiation as the orbital velocity of the electron increases from classical behavior to ultra-relativistic. The derivations can be found in Radiative Processes in Astrophysics by Rybicki and Lightman
 
 # Dependencies
 
@@ -13,4 +13,6 @@ This notebook requires the following python modules:
 # Usage
 
 Clone the repository by typing:
-**git clone** https:github.com/jaadt7/Astro-Final-Project.git
+**git clone** https://github.com/jaadt7/Astro-Final-Project.git
+
+To open the notebook, you can either type **jupyter notebook** in your terminal then browse for the file or directly type **jupyter notebook cyclo-synchro.ipynb** if you are in the directory
