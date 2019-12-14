@@ -16,3 +16,7 @@ Clone the repository by typing:
 **git clone** https://github.com/jaadt7/Astro-Final-Project.git
 
 To open the notebook, you can either type **jupyter notebook** in your terminal then browse for the file or directly type **jupyter notebook cyclo-synchro.ipynb** if you are in the directory
+
+# Current Issues with Master Branch
+
+The movies aren't generating properly. I suspect a frame rate issues
