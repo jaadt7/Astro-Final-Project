@@ -19,4 +19,4 @@ To open the notebook, you can either type **jupyter notebook** in your terminal 
 
 # Current Issues with Master Branch
 
-The movies aren't generating properly. I suspect a frame rate issues
+The movies aren't generating properly. I suspect a frame rate issues update will be rolled out from the develop branch
